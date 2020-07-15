@@ -1,0 +1,9 @@
+voila
+pandas
+ipywidgets
+seaborn
+voila-material
+plotly
+folium
+matplotlib
+numpy
